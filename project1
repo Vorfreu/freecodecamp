@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <h1 id="title"> freeCodeCamp Survey Form<h1>
+  <p id="description"> Thank you for taking the time to help us improve the platform </p>
+</head>
+<body>
+  <form id="survey-form">
+    <label id="name-label" for="name"> Name </label>
+    <input required placeholder="Esma Özlem" name="name" id="name" type="text" />
+    
+    <label id="email-label" for="email"> Email </label>
+    <input required placeholder="esma@ozlem" name="email" id="email" type="email" />
+
+    <label id="number-label" for="number"> Age (optional)</label>    
+    <input min="13" max="120" placeholder="13" name="age" id="number" type="number" />
+
+    <label for="dropdown"> Which option best describes your current role?
+      <select id="dropdown">
+        <option value="">(select one)</option>
+              <option value="1">Student</option>
+              <option value="2">Fulltime job</option>
+              <option value="3">Prefer not to say</option>
+              <option value="4">Other</option>
+      </select>
+    </label>
+    
+    <label> Would you recommend freeCodeCamp to a friend?</label> 
+    <label><input value="1" name="recommend" type="radio"> Definetly </label>
+    <label><input value="2" name="recommend" type="radio"> Maybe </label>
+    <label><input value="3" name="recommend" type="radio"> No </label>
+    
+    <label>  What would you like to see improved? (Check all that apply) </label>
+    <label><input value="1" type="checkbox"> Front-end Projects</label>
+    <label><input value="2" type="checkbox"> Back-end Projects</label>
+
+    <label>Any comments or suggestions?</label>
+    <textarea id="suggestions" name="suggestions" rows="3" cols="30" placeholder="Delete it all..."></textarea>
+
+    <input id="submit" type="submit">
+  </form>
+</body>
+</html>
