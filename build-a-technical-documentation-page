@@ -1,0 +1,74 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>JAVASCRIPT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main id="main-doc">
+    <section id="JS_Documentation1" class="main-section">JS_Documentation1
+      <header>JS Documentation1</header>
+      <p></p>
+      <p></p>
+      <code></code>
+      <li></li>
+    </section>    
+    <section id="JS_Documentation2" class="main-section">JS Documentation2
+      <header>JS Documentation2</header>
+      <p></p>
+      <p></p>
+      <code></code>
+      <li></li>
+    </section>
+    <section id="JS_Documentation3" class="main-section">JS Documentation3
+      <header>JS Documentation3</header>
+      <p></p>
+      <p></p>
+      <code></code>
+      <li></li>
+    </section>
+    <section id="JS_Documentation4" class="main-section">JS Documentation4
+      <header>JS Documentation4</header>
+      <p></p>
+      <p></p>
+      <code></code>
+      <li></li>
+    </section>
+    <section id="JS_Documentation5" class="main-section">JS Documentation5
+      <header>JS Documentation5</header>
+      <p></p>
+      <p></p>
+      <code></code>
+      <li></li>
+    </section>
+  </main>
+  <nav id="navbar">
+    <header>Not empty at all</header>
+    <a href="#JS_Documentation1" class="nav-link">JS Documentation1</a>
+    <a href="#JS_Documentation2" class="nav-link">JS Documentation2</a>
+    <a href="#JS_Documentation3" class="nav-link">JS Documentation3</a>
+    <a href="#JS_Documentation4" class="nav-link">JS Documentation4</a>
+    <a href="#JS_Documentation5" class="nav-link">JS Documentation5</a>
+
+
+  </nav>
+
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+@media {
+  body {
+    background-color: lightblue;
+  }
+}
+
+** end of undefined **
+
