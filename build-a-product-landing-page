@@ -1,0 +1,45 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Real Title</title>
+    <link href="styles.css" rel="stylesheet" />   
+</head>
+<body>
+  <header id="header">
+    <img id="header-img" src="">
+    <nav id="nav-bar">
+      <a class="nav-link" name="nav-link1" id="nav-link1" href="#nav-link1">link1</a>
+      <a class="nav-link" name="nav-link2" id="nav-link2" href="#nav-link2">link1</a>
+      <a class="nav-link" name="nav-link3" id="nav-link3" href="#nav-link3">link1</a>
+      <iframe id="video" src=""></iframe>
+    </nav>
+  </header>
+  <form action="https://www.freecodecamp.com/email-submit" id="form">
+    <input name="email" type="email" id="email" placeholder="placeholder">
+    <input id="submit" type="submit">
+
+  </form>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+header {
+  position: fixed;
+  top: 0px;
+  display:flex;
+}
+
+@media (max-width:100px) {
+  .html {
+    font-size:10px;
+  }
+}
+
+** end of undefined **
+
