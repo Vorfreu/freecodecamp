@@ -1,0 +1,46 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lan="eng">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="./styles.css" />
+  <title>Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+  <div id="welcome-section">
+    <h1>ABC</h1>
+  </div>
+  <div id="projects">
+    <h1 class="project-tile">
+    </h1>
+    <a></a>
+    <navbar id="navbar">
+      <a href="#projects"></a>
+      <a target="_blank" id="profile-link"></a>
+    </navbar>
+  </div>
+
+
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+@media {
+
+}
+
+navbar {
+  position: fixed;
+  width: 100%;
+    top: 0;
+  left: 0
+}
+
+** end of undefined **
+
